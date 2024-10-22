@@ -26,7 +26,7 @@ Google Colab with NVCC Compiler
 12.	Print Result: Print the result matrix and the elapsed time.
 13.	Free Device Memory: Finally, free the device memory that was allocated for the matrices.
 ## PROGRAM:
-```PYTHON
+```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 %load_ext nvcc4jupyter
 
